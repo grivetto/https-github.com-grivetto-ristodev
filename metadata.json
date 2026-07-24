@@ -1,0 +1,6 @@
+{
+  "name": "GustoCraft - Generatore Landing Page Ristoranti",
+  "description": "Generatore dinamico e intelligente di landing page e identità visiva per qualsiasi tipologia di ristorante o locale food & beverage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
